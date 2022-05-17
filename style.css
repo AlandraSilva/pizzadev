@@ -42,7 +42,7 @@ h1{
 }
 
 .logo h1{
-    font: 700 1.5rem 'Poppins', 'sans-serif';
+    font: 600 1.5rem 'Poppins', 'sans-serif';
     color: var(--title-color); 
 }
 
